@@ -40,6 +40,8 @@ pages/
 releases/
 release-archives/
 snapshot/assets/
+.idea/
+
 
 # Generated scripts
 .buildglyphs.all.patel
